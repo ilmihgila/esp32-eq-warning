@@ -100,7 +100,7 @@ void loop() {
       display.display();
 
       // Buzz when magnitude >= 5
-      if(magnitude.toFloat() >= 0){
+      if(magnitude.toFloat() >= 5){
         for(int j = 0; j < 5; j++){
           digitalWrite(LED, HIGH);
           for(int i = 200; i < 5000; i += 20){
