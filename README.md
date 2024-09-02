@@ -15,7 +15,7 @@ An (optional) led is used for the recording date, place and other usefull inform
 
 
 ## What you need
-1. Esp32 (i use esp-wroom-32 devkit on this project). Any board with wifi module should also work (code it yourself)
+1. Esp32 (i use esp-wroom-32 devkit on this project). Any board with wifi module should also work
 2. (optional) Led display (i use 124 * 64 OLED display). Consider using bigger display than mine
 3. (optional) speaker (i use buzzer). Consider using 3.3-5v speaker with mp3 player module
 
